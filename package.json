@@ -1,8 +1,8 @@
 {
-  "name": "my-blog",
+  "name": "blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://florxgomez.github.io/my-blog",
+  "homepage": "https://florxgomez.github.io/blog-redux",
   "dependencies": {
     "axios": "^0.19.0",
     "gh-pages": "^2.1.1",
