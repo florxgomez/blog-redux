@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/my-blog/static/js/main.8c7943c6.chunk.js",
-    "main.js.map": "/my-blog/static/js/main.8c7943c6.chunk.js.map",
-    "runtime-main.js": "/my-blog/static/js/runtime-main.88527fa3.js",
-    "runtime-main.js.map": "/my-blog/static/js/runtime-main.88527fa3.js.map",
-    "static/js/2.59f92a27.chunk.js": "/my-blog/static/js/2.59f92a27.chunk.js",
-    "static/js/2.59f92a27.chunk.js.map": "/my-blog/static/js/2.59f92a27.chunk.js.map",
-    "index.html": "/my-blog/index.html",
-    "precache-manifest.373eb67e2717f1ede8d98bc34fa53bd5.js": "/my-blog/precache-manifest.373eb67e2717f1ede8d98bc34fa53bd5.js",
-    "service-worker.js": "/my-blog/service-worker.js"
+    "main.js": "/blog-redux/static/js/main.d20f1443.chunk.js",
+    "main.js.map": "/blog-redux/static/js/main.d20f1443.chunk.js.map",
+    "runtime-main.js": "/blog-redux/static/js/runtime-main.ec0272a2.js",
+    "runtime-main.js.map": "/blog-redux/static/js/runtime-main.ec0272a2.js.map",
+    "static/js/2.4a90d37b.chunk.js": "/blog-redux/static/js/2.4a90d37b.chunk.js",
+    "static/js/2.4a90d37b.chunk.js.map": "/blog-redux/static/js/2.4a90d37b.chunk.js.map",
+    "index.html": "/blog-redux/index.html",
+    "precache-manifest.de6b49ff438fb574c5cf8a1d1bf8f7ba.js": "/blog-redux/precache-manifest.de6b49ff438fb574c5cf8a1d1bf8f7ba.js",
+    "service-worker.js": "/blog-redux/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.88527fa3.js",
-    "static/js/2.59f92a27.chunk.js",
-    "static/js/main.8c7943c6.chunk.js"
+    "static/js/runtime-main.ec0272a2.js",
+    "static/js/2.4a90d37b.chunk.js",
+    "static/js/main.d20f1443.chunk.js"
   ]
 }
