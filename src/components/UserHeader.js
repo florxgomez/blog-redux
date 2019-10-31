@@ -8,7 +8,7 @@ class UserHeader extends React.Component {
     if (!user) {
       return null;
     }
-    return <div className="header">{user.name}</div>;
+    return <div className="header" style={{marginTop: 25, textAlign: 'right'}} >{user.name}</div>
   }
 }
 
